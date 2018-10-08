@@ -1,8 +1,8 @@
 # Python-toy
-It's a toy project try to crawl school house info data from website.
+It's a toy project try to crawl school house info data from website.    
 
-Input data file is 2016PDXX.xls.
-There are several output datafiles:
+Input data file is 2016PDXX.xls.    
+There are several output datafiles:    
 	1. se.xls # it's a temp file, store all the "good school“ infomation.    
 	2. lianjia_house_info.xls # store all the school districts house info.    
 	3. lianjia_sort.xls # the same as lianjia_house_info.xls, just sorted the data by price.    
@@ -16,4 +16,5 @@ source file info:
 	start_up.py: the main function was putting here, just run it is enough.       
 	view_map.html: you could open this file to show the schoold disticts on BAIDU map, need to install web server first.
 
+[Ref]    
 [1] https://github.com/htjacky/Python-toy
